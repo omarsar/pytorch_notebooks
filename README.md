@@ -16,7 +16,7 @@ A collection of PyTorch notebooks for studying and practicing deep learning.
     <td class="tg-yw4l"><a href="">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '200px' >
 </a></td>
- <td class="tg-yw4l"><a href="https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/tf_pix2pix.ipynb">link</a></td>
+ <td class="tg-yw4l"><a href="https://medium.com/dair-ai/pytorch-1-2-quickstart-with-google-colab-6690a30c38d">read</a></td>
   </tr>
 
 </table>
