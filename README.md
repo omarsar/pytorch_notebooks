@@ -11,6 +11,18 @@ A collection of PyTorch notebooks for studying and practicing deep learning.
     <th class="tg-yw4l"><b>Blog </b></th>
     
   </tr>
+  
+  <tr>
+    <td class="tg-yw4l">PyTorch Hello World</td>
+    <td class="tg-yw4l">Create a hello world for deep learning using PyTorch.</td>
+    <td class="tg-yw4l">Deep Learning</td>
+    <td class="tg-yw4l">Beginnner</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1ac0K9_aa46c77XEeYtaMAfSOfmH1Bl9L">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '400px' >
+</a></td>
+    <td class="tg-yw4l"><a href="https://medium.com/dair-ai/a-first-shot-at-deep-learning-with-pytorch-4a8252d30c75?sk=729868741e9809dc3bba6e28a4d7af10">read</a></td>
+  </tr>
+  
   <tr>
     <td class="tg-yw4l">PyTorch Quickstart</td>
     <td class="tg-yw4l">Learn about PyTorch's basic building blocks to build and train a CNN model for image classification.</td>
@@ -32,4 +44,8 @@ A collection of PyTorch notebooks for studying and practicing deep learning.
 </a></td>
     <td class="tg-yw4l"><a href="https://medium.com/dair-ai/pytorch-1-2-introduction-guide-f6fa9bb7597c">read</a></td>
   </tr>
+  
+  
+  
+  
 </table>
