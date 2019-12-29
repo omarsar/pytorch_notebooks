@@ -13,6 +13,18 @@ A collection of PyTorch notebooks for studying and practicing deep learning.
   </tr>
   
   <tr>
+    <td class="tg-yw4l">Implementing a Logistic Regression Model from Scratch</td>
+    <td class="tg-yw4l">Learn how to implement the fundamental building blocks of a neural network using PyTorch.</td>
+    <td class="tg-yw4l">Machine Learning</td>
+    <td class="tg-yw4l">Beginnner</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1AWXvwvyoOczCugTTULLbIPYIh2_GS2Aq">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '400px' >
+</a></td>
+    <td class="tg-yw4l"><a href="">read</a></td>
+  </tr>
+  
+  
+  <tr>
     <td class="tg-yw4l">PyTorch Hello World</td>
     <td class="tg-yw4l">Create a hello world for deep learning using PyTorch.</td>
     <td class="tg-yw4l">Deep Learning</td>
