@@ -1,5 +1,5 @@
 # PyTorch Notebooks
-A collection of PyTorch notebooks for studying and practicing deep learning.
+A collection of PyTorch notebooks for studying and practicing deep learning. Each notebook contains a set of exercises that are specifically designed to engage and encourage the learner to conduct more research and experiments.
 
 <table class="tg">
   <tr>
