@@ -20,7 +20,7 @@ A collection of PyTorch notebooks for studying and practicing deep learning. Eac
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1AWXvwvyoOczCugTTULLbIPYIh2_GS2Aq">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '400px' >
 </a></td>
-    <td class="tg-yw4l"><a href="https://medium.com/dair-ai/implementing-a-logistic-regression-model-from-scratch-with-pytorch-24ea062cd856">read</a></td>
+    <td class="tg-yw4l"><a href="https://medium.com/dair-ai/implementing-a-logistic-regression-model-from-scratch-with-pytorch-24ea062cd856?source=friends_link&sk=49dcddb17d1d021d2d677f3666c884636">read</a></td>
   </tr>
   
   
